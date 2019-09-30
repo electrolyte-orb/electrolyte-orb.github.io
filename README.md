@@ -1,6 +1,6 @@
 # ![black-hole](black-hole.svg)
 # Welcome to Electrolyte-orb
-<link rel="shortcut icon" href=>
+
 > ## Science Articles
 > Email: [Email ME](mailto:electrolyte.orb@gmail.com?Subject=From%20Github)
 
@@ -15,3 +15,7 @@ Others | Here
 ---
 
 > Website in development
+
+
+
+<link rel="shortcut icon" href="black-hole(7).png">
