@@ -9,32 +9,33 @@
     <style>
         * {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: white;
         }
-        .bg-body {
+        body {
             background: url('back.jpg');
             background-attachment: fixed;
             background-position: center;
             background-repeat: no-repeat;
-            background-size: cover;
-            color: white;
-            filter: blur(8px);
-            height: 100%;
-            position: fixed;
-            width: 100%;
-            z-index: -99
-        }
-        html, body {
-            height: 100%;
         }
         h1 {
             font-weight: lighter;
-            position: absolute;
             text-align: center;
+            }
+        .header {
+            top: 0;
+            left: 0;
+            width: 100px;
+            text-align: center;
+            width: 100%;
+            position: fixed;
+            background: rgba(255, 255, 255, 0.178)
         }
     </style>
 </head>
 <body>
-    <div class="bg-body"></div>
-    <h1>Electrolyte Orb</h1>
+    <div class="header">
+            <h1>Electrolyte Orb</h1>
+
+    </div>
 </body>
 </html>
