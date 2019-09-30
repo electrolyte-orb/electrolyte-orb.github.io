@@ -10,13 +10,18 @@
         * {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
-        body {
+        .bg-body {
             background: url('back.jpg');
             background-attachment: fixed;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
             color: white;
+            filter: blur(8px);
+            height: 100%;
+        }
+        html, body {
+            height: 100%;
         }
         h1 {
             font-weight: lighter
@@ -24,6 +29,7 @@
     </style>
 </head>
 <body>
+    <div class="bg-body"></div>
     <h1>Electrolyte Orb</h1>
 </body>
 </html>
