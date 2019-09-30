@@ -19,3 +19,4 @@ Others | Here
 
 
 <link rel="shortcut icon" href="black-hole(7).png">
+<title>Electrolyte Orb</title>
