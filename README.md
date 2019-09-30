@@ -1,4 +1,4 @@
-# ![Logo](black-hole.svg)
+![Logo](black-hole.svg)
 # Welcome to Electrolyte-orb
 
 > ## Science Articles
