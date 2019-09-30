@@ -1,4 +1,4 @@
-# ![black-hole](black-hole.svg)
+# ![Logo](black-hole.svg)
 # Welcome to Electrolyte-orb
 
 > ## Science Articles
@@ -19,4 +19,6 @@ Others | Here
 
 
 <link rel="shortcut icon" href="black-hole(7).png">
+<head>
 <title>Electrolyte Orb</title>
+</head>
