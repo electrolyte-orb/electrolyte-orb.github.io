@@ -1,4 +1,4 @@
-[![preview](assets/preview.svg)](https://electrolyte-orb.github.io/)
+![preview](assets/preview.svg)
 # Electrolyte Orb
 ---
 ## Feel every
