@@ -13,6 +13,9 @@
 
 Experience CSS and JS along with productivity
 
+![preview](assets/preview.jpg)
+
+
 # Why are you wondering
 # [Get Started](https://electrolyte-orb.github.io/)
 __-
