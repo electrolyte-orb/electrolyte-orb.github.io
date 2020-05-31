@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="assets/markd/style.css">
-<h1> Electrolyte Orb </h1>
+<h1> <span class="red">Electrolyte</span> Orb </h1>
 
 ##### A sbubsidiary of [Verbose 9](https://verbose9.github.io/)
 
@@ -12,3 +11,7 @@
 # waiting
 # for
 # you
+
+## Get started NOW!
+
+<link rel="stylesheet" href="assets/markd/style.css">
