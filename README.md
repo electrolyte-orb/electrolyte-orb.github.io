@@ -14,4 +14,23 @@
 
 ## Get started NOW!
 
-<link rel="stylesheet" href="assets/markd/style.css">
+<style>
+
+    @font-face {
+    src: url('../fonts/Ailerons-Regular.otf');
+    font-family: 'Ailerons';
+}
+h1, h2, h3 {font-family: 'Ailerons', sans-serif;}
+h1 {
+    font-size: 5em;
+}
+h2 {
+    font-size: 2em;
+}
+h3 {
+    font-size: 1em;
+}
+.red {
+    color: red
+}
+</style>
