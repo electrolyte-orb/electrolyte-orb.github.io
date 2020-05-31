@@ -1,4 +1,4 @@
-![preview](assets/preview.jpg)
+![preview](assets/preview.png)
 # Electrolyte Orb
 ---
 ## Feel every
