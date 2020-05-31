@@ -1,0 +1,7 @@
+@font-face {
+    font-family: ailerons;
+    src: url(assets/fonts/Ailerons-Regular.otf);
+}
+h1 {
+    font-family: ailerons;
+}
