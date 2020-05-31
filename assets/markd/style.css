@@ -1,0 +1,7 @@
+@font-face {
+    src: url('../fonts/Ailerons-Regular.otf');
+    font-family: 'Ailerons';
+}
+h1 {
+    font-size: 60px; font-family: 'Ailerons', sans-serif
+}
