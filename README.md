@@ -13,7 +13,7 @@
 
 Experience CSS and JS along with productivity
 
-![preview](assets/preview.jpg)
+![preview](assets/Picture1.svg)
 
 
 # Why are you wondering
