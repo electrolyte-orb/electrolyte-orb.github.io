@@ -1,0 +1,25 @@
+{
+  "name": "verbose9-app",
+  "version": "1.2.1",
+  "description": "This is a powerful app to create some CSS based frameworks",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electrolyte-orb/electrolyte-orb.github.io.git"
+  },
+  "author": "Electrolyte Orb Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/electrolyte-orb/electrolyte-orb.github.io/issues"
+  },
+  "homepage": "https://github.com/electrolyte-orb/electrolyte-orb.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
